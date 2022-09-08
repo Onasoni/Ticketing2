@@ -10,3 +10,4 @@ It give energy
 showing the head changes
 Adding a new line of text from bugfix master
 It is a bright and sunny day
+We are adding this new line from the GUI
